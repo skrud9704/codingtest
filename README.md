@@ -9,7 +9,7 @@
   - DrawSpiral.java - [1022. 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
   - RomaNum.java - [2608. 로마 숫자](https://www.acmicpc.net/problem/2608)
 
-1. Dfs & Bfs
+2. DFS & BFS
   - EulerianCircuit.java - [1199. 오일러 회로](https://www.acmicpc.net/problem/1199)
   - Virus.java - [2606. 바이러스](https://www.acmicpc.net/problem/2606)
   - WaterBucket.java - [14867. 물통](https://www.acmicpc.net/problem/14867)
