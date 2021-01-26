@@ -22,6 +22,13 @@
   - NewRecruits.java - [1946. 신입 사원](https://www.acmicpc.net/problem/1946)
   - JumpLog.java - [11497. 통나무 건너뛰기](https://www.acmicpc.net/problem/11497)
   - FourNumAdd0.java - [7453. 합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
+  
+  4. 정렬 & 이분탐색
+  - AddTwoArray.java - [2143. 두 배열의 합](https://www.acmicpc.net/problem/2143)
+  - LongestIncrease.java - [12015. 가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)
+  - DragonAndDungeon.java - [164343. 드래곤 앤 던전](https://www.acmicpc.net/problem/16434)
+  - TwistedWire.java - [1365. 꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
+  - KthNum.java - [7469. K번째 수](https://www.acmicpc.net/problem/7469)
 
 ---
 
