@@ -45,6 +45,13 @@
   - LolSmall.java - [12721. 리그 오브 레전설 (Small)](https://www.acmicpc.net/problem/12721)
   - RGBStreet.java - [1149. RGB거리](https://www.acmicpc.net/problem/1149)
 
+8. 기타 그래프 이론 : union-find, cycle, minimum spanning tree, topology sort
+  - RepresentSet.java - [1717. 집합의 표현](https://www.acmicpc.net/problem/1717)
+  - CycleGame.java - [20040. 사이클 게임](https://www.acmicpc.net/problem/20040)
+  - ConnectNetwork.java - [1922. 네트워크 연결](https://www.acmicpc.net/problem/1922)
+  - PlanetTunnel.java - [2887. 행성 터널](https://www.acmicpc.net/problem/2887)
+  - LineUp.java - [2252. 줄 세우기](https://www.acmicpc.net/problem/2252)
+
 
 ---
 
