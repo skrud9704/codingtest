@@ -52,6 +52,13 @@
   - PlanetTunnel.java - [2887. 행성 터널](https://www.acmicpc.net/problem/2887)
   - LineUp.java - [2252. 줄 세우기](https://www.acmicpc.net/problem/2252)
 
+9. 기타 알고리즘 : 소수판별(에라토스테네스의 체), Two-pointer, Prefix sum(Interval sum 구간합)
+  - BetrandPastulate.java - [4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948)
+  - NotSquareNum.java - [1016. 제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016)
+  - PlanetExplolation.java - [5549. 행성 탐사](https://www.acmicpc.net/problem/5549)
+  - Good.java - [1253. 좋다](https://www.acmicpc.net/problem/1253)
+  - MustSlove.java - [17390. 이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390)
+
 
 ---
 
